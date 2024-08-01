@@ -1,0 +1,84 @@
+Full-Stack Developer and AI Researcher | NextGenJustice | San Jose, CA
+- Fine-tuned models to speak using legal terminology by collaborating with a fellow intern to create a one stop shop for fine-tuning, evaluating, and interfacing with pretrained huggingface models. 
+- prototyped UI/UX designs and 
+- did AI research about RAG and training
+- dove deeply into how the transformers library worked
+
+During the summer of 2024 I was fortunate enough to partner with Next Generation Justice and work as a full-stack web developer and AI research assistant. As interns, my team and I strived to make the law more approachable for the common person by leveraging AI technologies. During the course of this internship I collaborated with two fellow interns in order to fine-tune pretrained AI models to speak legalese and create a consumer-facing React app with Next.js. 
+
+Full-Stack Developer | Berea College | Berea, KY 
+* Python, Flask, Jinja, MySQL, Peewee, 
+- saved the college ~$60,000 annually by developing an event/volunteer management platform in house
+- saved ~15 minutes per volunteer by adding a feature which saves emergency contact and health insurance forms so volunteers only need to fill out their information once
+
+During the summer of 2023 I interned with the Berea College software development team and contributed in a team of 9 other interns to add features that saved volunteer time and money. CELTS focuses on community service and civic engagement through a variety of methods which include mentoring, tutoring, and social justice advocacy. As an umbrella organization, CELTS hosts a variety of different programs that serve a variety of different groups in our community. Because of the impact of our work, we were able to save CELTS an average of $60,000 annually by making our own solution to manage events and track volunteers. During this experience, I streamlined the volunteer process for returning volunteers, allowing users to store their emergency contact and insurance information so volunteers only needed to fill out their forms once.
+
+
+IT Student Manager
+
+For the first two years of my colligate education, I worked in the college's IT department where I got promoted to a manager. During my time there I provided invaluable software and hardware support for the college campus and earned my Dell Technician certification. I managed a team of 13 students and mentored 2 more in hardware troubleshooting and repair. During this time I became intimately familiar with the windows operating system and gained insight into debugging most windows issues. During my time there I drastically reduced the number of lost machines by implementing new and more intuitive tracking mechanisms resulting in fewer machines being lost.
+
+
+
+Math Research
+- Python and C++
+- intersected math and computer science to investigate the win conditions of a combinatorial game titled Aggression
+- verified previous manual research by designing and implemented a system for calculating all possible moves in a game tree and traversing through it with a CLI
+
+I did a year of math research trying to solve a combinatorial partisan game known as Aggression. Aggression is a pencil and paper game played by two people who take turns placing armies down onto a board and then attacking each other with them in turns sort of like a simplified version of the popular board game risk. I created a bunch of scripts in this project to help visualize the game and study it. One of them generates a random board state of a specified size and lets the human players finish it out.
+
+The magnum opus of this project was the script that generates a full game tree for a board of any size and allows you to traverse it with a CLI. This tool allowed me to verify the work of my predecessors, completing months of handwritten work in mere hours. Furthermore, I was able to fully traverse every possible game state in an organized manner which allowed me to see how one should play in any given scenario.
+
+
+Keyboard Mod
+- Greatly improved text editing capabilities by reducing time spent moving hands from the home row
+- Added easy to press shortcuts for swapping desktops, tabs, and windows
+- Didn't remove functionality from any of the keys
+
+This keyboard mod is the single piece of software I'm the most proud of and it's something I use on a daily basis to increase my workflow with the technology I use. 
+
+From the moment I turn on my laptop, the software is running in the background and if someone else tries to use my computer, they can do so with no difficulties. When I use it though, it's a whole different story. Pressing the caps lock button does exactly what you'd expect it to do but holding it down rebinds all keyboard keys to different actions which are controllable through the python script. I have the arrow keys bound vim style to my right hand at all times. Also bound to my right hand are keys for switching desktops, tabs, and windows. To my left I have bound useful keys like home, end, ctrl+right, and ctrl+left. The spacebar conveniently acts as shift when in this mode so I can hold it down while using the arrow keys on my right hand to highlight text. Left alt highlights a word to the left of my cursor and right alt does the same to my cursor's right. This allows me to easily jump to a word I want to change, highlight it in a single keystroke and then replace it with ease.
+
+The way I have this set up also allows you to enter 'shiftLock' by releasing both left shift and right shift at the same time. In doing so, all keys are rebound again with a focus on heavier weight applications which are run as subprocesses. Here I have bound some simple scripts like ones that display my IP address in a popup and ones that let me share my clipboard with other machines running my script for a seamless workflow experience.
+
+This is the best thing that I've ever worked on and it's something I wish I had my whole life. It's made working on all of the other projects in this portfolio so much easier.
+
+
+By the way, since I consider myself a teacher. As a Windows default, you can quickly swap between vertical scrolling and horizontal scrolling by holding down shift while you scroll.
+
+
+Swing Knight
+
+Have you ever wanted to play as a fearsome knight swinging around with your grappling hook, dodging fearsome monsters while collecting gems worth thousands? Well, now you can! Introducing Swing Knight, a project I made for a programming languages class as my midterm project. This game uses Java and XML in Android Studio, all of which I'd never used before so I decided to make a project to broaden my horizons. This game is fully playable on all Android devices.
+
+In the game you can hold down the right button to swing clockwise and the left button to swing counter. This game is all about timing the releases of your grapple with the correct direction of rotation onto the next tether anchor in order to maintain your speed to avoid enemies. 
+
+
+Build-a Lawrence
+
+Dressing for success is vital to one's life and looking your best professionally can make or break one's self-confidence and open the door to new opportunities. I don't think there are many people who'd disagree that dressing well is an important part of one's professional identity but not everyone is equipped with an eye for fashion. ESPECIALLY me which is exactly why I created this tool for myself. 
+
+This is a python script that allows me to try on every outfit combination I own while only lifting my index finger. This tool is equipped with pictures of all of the dress clothes in my wardrobe and allows me to try on outfits without ever opening my closet. It's really convenient not to have to try on my silver blazer with my beige pants to see if they look good. I can simply try them on in my program. 
+
+(Let me know what you think, I can't decide whether or not this combo works)
+
+I personally use at least once a week. I don’t have the best fashion sense so I wrote a program to help.
+
+
+Love Pong
+
+
+Have you ever wished that pong was waaaaaay cooler? I went to the Computer History museum in Mountain View California and their pong game was just sad. Neither player could win and there was no opportunity for leveling up the game to make it more interesting as the game progressed. This game was designed to be played with your significant other and features fun powerups without descriptions that you can purchase by winning points. Every time the ball is hit by either paddle, it becomes worth one more point making the tension all the more palpable. In the end, hugging each other is the only way to really win.
+
+This game actually turned out to be a lot of fun and I highly recommend you check it out. It's made with pygame and has full controller support.
+
+
+
+
+
+
+
+
+
+
+
