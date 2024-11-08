@@ -9,7 +9,7 @@ During the summer of 2024 I was fortunate enough to partner with Next Generation
 Full-Stack Developer | Berea College | Berea, KY 
 * Python, Flask, Jinja, MySQL, Peewee, 
 - saved the college ~$60,000 annually by developing an event/volunteer management platform in house
-- saved ~15 minutes per volunteer by adding a feature which saves emergency contact and health insurance forms so volunteers only need to fill out their information once
+- 
 
 During the summer of 2023 I interned with the Berea College software development team and contributed in a team of 9 other interns to add features that saved volunteer time and money. CELTS focuses on community service and civic engagement through a variety of methods which include mentoring, tutoring, and social justice advocacy. As an umbrella organization, CELTS hosts a variety of different programs that serve a variety of different groups in our community. Because of the impact of our work, we were able to save CELTS an average of $60,000 annually by making our own solution to manage events and track volunteers. During this experience, I streamlined the volunteer process for returning volunteers, allowing users to store their emergency contact and insurance information so volunteers only needed to fill out their forms once.
 
